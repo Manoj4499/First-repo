@@ -1,3 +1,3 @@
 # First-repo
 Manoj Kumar Kandimalla
-Every week has seven days
+Every month has four weeks
